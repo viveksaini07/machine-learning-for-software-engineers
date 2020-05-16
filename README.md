@@ -188,7 +188,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [x] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 - [x] [Are you a self-taught machine learning engineer? If yes, how did you do it & how long did it take you?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
 - [x] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
-- [x] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
+- [x] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/). ***************GOOD ONE*****
 
 ## Machine Learning Algorithms
 - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
